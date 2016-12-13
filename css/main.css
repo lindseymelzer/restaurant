@@ -1,0 +1,142 @@
+/*** sectioning elements ***/
+
+body {
+  background: #ccdcff;
+}
+
+header {
+
+}
+
+main {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+footer {
+
+}
+
+nav {
+background-color:  #000000;
+font color: #ffffff;
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-family: 'Delius Unicase', cursive;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Delius Unicase', cursive;
+  margin:0;
+
+}
+
+h3 {
+  font-family: 'Delius Unicase', cursive;
+  margin: 0px;
+  font-size: 40px;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+ color: #000000;
+}
+
+a:visited {
+ color: #000000;
+}
+
+a:hover {
+ color: #000000;
+}
+
+a:active {
+ color: #000000;
+}
+
+nav a:link {
+  color: #ffffff;
+}
+nav a:visited {
+ color: #ffffff;
+}
+
+nav a:hover {
+ color: #ffffff;
+}
+
+nav a:active {
+ color: #ffffff;
+}
